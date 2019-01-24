@@ -1,0 +1,23 @@
+{
+  "name": "nurse-ratio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindsaycarbonell/nurse-ratio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindsaycarbonell/nurse-ratio/issues"
+  },
+  "homepage": "https://github.com/lindsaycarbonell/nurse-ratio#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
